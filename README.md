@@ -1,6 +1,8 @@
 # edu
 edu
 
+    https://nodejs.org/ko/download/
+
      $ nvm install 12.10.0
 
 
