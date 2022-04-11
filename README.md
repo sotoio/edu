@@ -1,6 +1,10 @@
 # edu
 edu
      
+     https://github.com/sotoedu/node-red/blob/main/exam000/000function.txt
+     
+     
+     
      http://localhost:1880/ui
      
      http://localhost:1880   
