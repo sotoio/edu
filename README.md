@@ -1,6 +1,8 @@
 # edu
 edu
 
+     $ nvm install 12.10.0
+
 
     https://github.com/coreybutler/nvm-windows/releases
 
