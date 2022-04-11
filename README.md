@@ -1,6 +1,8 @@
 # edu
 edu
-
+     
+     http://localhost:1880/ui
+     
      http://localhost:1880   
     $ node-red -p 1880 –u  .      
 
