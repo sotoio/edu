@@ -1,5 +1,8 @@
 # edu
 edu
+     0x4C464D7E0356df3BE8af9DcFe0c24EDEB97281D9
+     
+     
      
      https://github.com/sotoedu/node-red/blob/main/exam000/000function.txt
      
