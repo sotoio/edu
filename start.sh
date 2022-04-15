@@ -103,6 +103,6 @@ echo "    sdk help"
 echo ""
 echo "Enjoy!!!"
 
-sodo apt update
+sudo apt update
 
 
