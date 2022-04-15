@@ -30,23 +30,23 @@ else
     SDKMAN_DIR="$HOME/workspace"
 fi
 
-if [ -d "$SDKMAN_DIR" ]; then
-	echo "SDKMAN found."
-	echo ""
-	echo "======================================================================================================"
-	echo " You already have SDKMAN installed."
-	echo " SDKMAN was found at:"
-	echo ""
-	echo "    ${SDKMAN_DIR}"
-	echo ""
-	echo " Please consider running the following if you need to upgrade."
-	echo ""
-	echo "    $ sdk selfupdate force"
-	echo ""
-	echo "======================================================================================================"
-	echo ""
-	exit 0
-fi
+# if [ -d "$SDKMAN_DIR" ]; then
+# 	echo "SDKMAN found."
+# 	echo ""
+# 	echo "======================================================================================================"
+# 	echo " You already have SDKMAN installed."
+# 	echo " SDKMAN was found at:"
+# 	echo ""
+# 	echo "    ${SDKMAN_DIR}"
+# 	echo ""
+# 	echo " Please consider running the following if you need to upgrade."
+# 	echo ""
+# 	echo "    $ sdk selfupdate force"
+# 	echo ""
+# 	echo "======================================================================================================"
+# 	echo ""
+# 	exit 0
+# fi
 
 
 echo "Looking for unzip..."
@@ -102,5 +102,7 @@ echo ""
 echo "    sdk help"
 echo ""
 echo "Enjoy!!!"
+
+sodo apt update
 
 
