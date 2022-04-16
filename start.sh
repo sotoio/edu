@@ -91,6 +91,12 @@ echo "Looking for a previous installation of Togather..."
 echo "Installing Togather scripts..."
 echo "Create distribution directories..."
 echo "Install scripts..."
+
+# sudo apt update
+# pip install -r requirements.txt
+
+
+
 echo -e "\n\n\nAll done!\n\n"
 echo ""
 echo "Please open a new terminal, or run the following in the existing one:"
@@ -103,6 +109,5 @@ echo "    sdk help"
 echo ""
 echo "Enjoy!!!"
 
-sudo apt update
 
 
