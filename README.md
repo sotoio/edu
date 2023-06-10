@@ -1,8 +1,8 @@
-# OCR_flask
-OCR_flask
+# project_flask
+prjectOCR_flask
 
 
-# OCR_flask Quickstart - Python example app
+# project_flask Quickstart - Python example app
 
 This is an example app used in the url  [quickstart tutorial] (https://github.com/test). It uses the [Flask](https://flask.palletsprojects.com/en/2.0.x/) web framework. Check out the tutorial or follow the instructions below to get set up.
 
