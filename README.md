@@ -1,41 +1,48 @@
-# edu
-edu
-     
-     
-     
-     myToken:   0xe54a5256356B501FFF7E41169AA697FE1399b351
-     
-     0x4C464D7E0356df3BE8af9DcFe0c24EDEB97281D9
-     
-     
-     
-     https://github.com/sotoedu/node-red/blob/main/exam000/000function.txt
-     
-     
-     
-     http://localhost:1880/ui
-     
-     http://localhost:1880   
-    $ node-red -p 1880 –u  .      
-
-    $ npm init -y
-    $ cd nodeTest
-    $ mkdir nodeTest
-    $ cd workspace
-    $ mkdir workspace
-    
-    $ cd ..
-    
-    $ npm install -g node-red   
-
-    https://nodejs.org/ko/download/
-
-     $ nvm install 12.10.0
+# OCR_flask
+OCR_flask
 
 
-    https://github.com/coreybutler/nvm-windows/releases
+# OCR_flask Quickstart - Python example app
 
+This is an example app used in the tesseract  [quickstart tutorial] (https://github.com/test). It uses the [Flask](https://flask.palletsprojects.com/en/2.0.x/) web framework. Check out the tutorial or follow the instructions below to get set up.
 
-    nvm 다운로드 후 설치
+## Setup
 
-    https://github.com/coreybutler/nvm-windows/releases/download/1.1.9/nvm-setup.zip
+1. If you don’t have Python installed, [install it from here](https://www.python.org/downloads/).
+
+2. Clone this repository.
+
+3. Navigate into the project directory:
+
+   ```bash
+   $ mkdir project
+   $ cd project
+   ```
+
+4. Create a new virtual environment:
+
+   ```bash
+   $ python -m venv venv
+   $ . venv/bin/activate
+   ```
+
+5. git clone :
+
+   ```bash
+   $ git clone https://github.com/test
+   $ cd test
+   ```
+
+6. Install the requirements:
+
+   ```bash
+   $ pip install -r requirements.txt
+   ```
+
+7. Run the app:
+
+   ```bash
+   $ python app.py
+   ```
+
+You should now be able to access the app at [http://localhost:5000](http://localhost:5000)  
