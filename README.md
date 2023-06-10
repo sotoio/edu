@@ -10,36 +10,34 @@ This is an example app used in the url  [quickstart tutorial] (https://github.co
 
 1. If you don’t have Python installed, [install it from here](https://www.python.org/downloads/).
 
-2. Clone this repository.
-
-3. Navigate into the project directory:
+2. Navigate into the project directory:
 
    ```bash
    $ mkdir project
    $ cd project
    ```
 
-4. Create a new virtual environment:
+3. Create a new virtual environment:
 
    ```bash
    $ python -m venv venv
    $ . venv/bin/activate
    ```
 
-5. git clone :
+4. Clone this repository:
 
    ```bash
    $ git clone https://github.com/test
    $ cd test
    ```
 
-6. Install the requirements:
+5. Install the requirements:
 
    ```bash
    $ pip install -r requirements.txt
    ```
 
-7. Run the app:
+6. Run the app:
 
    ```bash
    $ python app.py
